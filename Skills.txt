@@ -1,0 +1,5 @@
+SKILLS
+
+Programming language-c,c++,java
+Operating system-windows , linux
+Documentation tools – MS-Office
